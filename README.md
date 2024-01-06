@@ -14,8 +14,6 @@ Welcome to Foody, a simple and delightful food website built with React for the 
 - [Getting Started](#getting-started)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 - **Intuitive UI:** A user-friendly interface designed with HTML, JavaScript, and TypeScript for a smooth and responsive experience.
