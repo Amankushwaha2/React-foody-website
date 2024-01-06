@@ -36,5 +36,5 @@ To get started with Foody, follow these steps:
 3. Install dependencies: `npm install`
 
 ### Usage
-- Run the development server: `npm start`
+- Run the development server: `npm run dev`
 - Open your browser and visit `http://localhost:5173` to explore Foody.
