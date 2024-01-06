@@ -37,4 +37,4 @@ To get started with Foody, follow these steps:
 
 ### Usage
 - Run the development server: `npm start`
-- Open your browser and visit `http://localhost:3000` to explore Foody.
+- Open your browser and visit `http://localhost:5173` to explore Foody.
